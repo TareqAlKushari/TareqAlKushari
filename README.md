@@ -4,7 +4,9 @@ Welcome to my personal GitHub profile repository!
 
 ## 👨‍💻 About Me
 
-I'm Tareq Al-Kushari, a passionate developer and technology enthusiast. This repository serves as my GitHub profile README, highlighting my interests, skills, and projects. I love exploring new technologies, solving problems, and collaborating with the open-source community.
+I'm **Tareq Al-Kushari**, a passionate developer and technology enthusiast. I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community.
+
+This repository serves as my GitHub profile README, highlighting my interests, skills, and projects.
 
 ## 🚀 Skills & Interests
 
