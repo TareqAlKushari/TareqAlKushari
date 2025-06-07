@@ -66,6 +66,18 @@ I'm always learning something new! Right now, I'm focused on:
 
 ![Tareq's GitHub stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&hide_title=true)
 
+## 📈 GitHub Stats & Activity
+
+![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&theme=radical&hide_title=true)
+
+![Tareq's Streak](https://github-readme-streak-stats.herokuapp.com?user=TareqAlKushari&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqAlKushari&layout=compact&theme=radical)
+
+## 🌀 GitHub Activity Graph
+
+[![Tareq's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TareqAlKushari&theme=react-dark)](https://github.com/TareqAlKushari)
+
 ---
 
 > ⭐️ *Thanks for visiting my profile! Feel free to follow, check out my repositories, and connect with me.*
