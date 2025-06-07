@@ -1,4 +1,5 @@
---> ## Hi there 👋
+--> 
+## Hi there 👋
 
 
 **TareqAlKushari/TareqAlKushari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,8 +51,6 @@ I'm always learning something new! Right now, I'm focused on:
 - Cross-platform **Mobile Development**  
 - Deepening knowledge in **Computer Networking**
 
----
-
 ## 🧪 Featured Projects
 
 🔸 **E-Commerce Platform** — Laravel + Vue + Bootstrap  
@@ -60,8 +59,6 @@ I'm always learning something new! Right now, I'm focused on:
 🔸 **AI & Cybersecurity Research** — Paper on AI for Security
 
 > Explore my repositories to see what I’m building.
-
----
 
 ## 📫 How to Reach Me
 
