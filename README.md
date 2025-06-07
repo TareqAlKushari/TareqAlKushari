@@ -1,4 +1,4 @@
-# Hi there, I'm Tareq Al-Kushari 👋
+# Hi there! 👋
 
 Welcome to my personal GitHub profile repository!
 
