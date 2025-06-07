@@ -62,10 +62,6 @@ I'm always learning something new! Right now, I'm focused on:
 📷 [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)  
 🐦 [X (Twitter)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
 
-## 📈 GitHub Stats
-
-![Tareq's GitHub stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&hide_title=true)
-
 ## 📈 GitHub Stats & Activity
 
 ![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&theme=radical&hide_title=true)
