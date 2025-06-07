@@ -1,21 +1,3 @@
---> 
-## Hi there 👋
-
-
-**TareqAlKushari/TareqAlKushari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Tareq Al-Kushari 👋
 
 Welcome to my personal GitHub profile repository!
@@ -86,4 +68,4 @@ I'm always learning something new! Right now, I'm focused on:
 
 ---
 
-Thanks for visiting my profile! ⭐️ Feel free to check out my repositories and connect with me.
+> ⭐️ *Thanks for visiting my profile! Feel free to follow, check out my repositories, and connect with me.*
