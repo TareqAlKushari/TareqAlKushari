@@ -43,7 +43,7 @@ I'm **Tareq Al-Kushari**, a passionate developer and technology enthusiast. I lo
 I'm always learning something new! Right now, I'm focused on:
 - 🔧 Full-stack **Web Development**
 - 📲 Cross-platform **Mobile Development**
-- 🌐 **Computer Networking** principles & protocols
+- 🌐 **Computer Networking**
 
 ## 🧪 Featured Projects
 
@@ -56,11 +56,11 @@ I'm always learning something new! Right now, I'm focused on:
 
 ## 📫 How to Reach Me
 
-📞 **Phone:** +967 773 350 540  
-📧 **Email:** [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)  
-📘 [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL)  
-📷 [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)  
-🐦 [X (Twitter)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
+- 📞 **Phone:** +967 773 350 540  
+- 📧 **Email:** [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)  
+- 🌐 **Facebook:** [Tareq AlKushari](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL)
+- 📸 **Instagram:** [tareq.al.kushari](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
+- 🐦 **X (Twitter):** [@Al_Kushari](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
 
 ## 📈 GitHub Stats & Activity
 
