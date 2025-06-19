@@ -52,6 +52,18 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 
 > You can explore all my repositories to dive deeper!
 
+## 📚 Learning Goals
+
+* 🌐 Deepening expertise in AI/ML and advanced mobile/web architectures
+* ☁️ Expanding knowledge in cloud computing setups (AWS, Azure)
+* 🔄 Improving cross-disciplinary capabilities: UI/UX, Networking, DevOps
+
+## 🤝 Let’s Collaborate
+
+I’m open to contributions, partnerships, and discussions on web or mobile projects, AI research, or anything inventive.
+Feel free to open an issue or submit a PR!
+
+
 ## 🌱 Currently Learning
 
 I'm always learning something new! Right now, I'm focused on:
