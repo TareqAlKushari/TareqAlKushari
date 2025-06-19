@@ -66,7 +66,7 @@ Feel free to open an issue or submit a PR!
 
 ## 📈 GitHub Stats & Activity
 
-![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&theme=radical&hide_title=true)
+![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&theme=radical)
 
 ![Tareq's Streak](https://github-readme-streak-stats.herokuapp.com?user=TareqAlKushari&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
