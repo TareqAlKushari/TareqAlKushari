@@ -40,13 +40,17 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### 🎯 Interests
+## ⭐ Featured Projects
 
-🌐 Web Development  
-📱 Mobile App Development  
-🧠 Artificial Intelligence  
-🛠 Software Engineering  
-🌐 Computer Networking
+* **Portfolio-Website** – A sleek, responsive personal portfolio showcasing skills and contact info ([Website](https://tareqalkushari.github.io/Portfolio-Website/))
+* **Movies-Website** – A clean UI to browse movies using HTML, CSS, and JS ([Website](https://tareqalkushari.github.io/Movies-Website/))
+* **Laravel-Blog-Website** – A dynamic blog platform built using Laravel ([Website](https://tareqalkushari.github.io/Laravel-Blog-Website/))
+* **Java-Food-Delivery-Application** – Android-based food delivery app with Firebase backend ([Mobile App](https://tareqalkushari.github.io/Java-Food-Delivery-Application))
+* **Flutter-E-Commerce-App** – A wholesale e-commerce app built with Flutter and Dart ([Mobile App](https://tareqalkushari.github.io/Flutter-E-Commerce-App/))
+* **Leon-Template-One** – A modern web template using HTML5, CSS3, and JavaScript ([Website](https://tareqalkushari.github.io/Leon-Template-One-Using-HTML-CSS-and-JavaScript/))
+* **Smart-Surveillance-System** – AI-powered security and surveillance system using Python ([AI System](https://tareqalkushari.github.io/Smart-Surveillance-System/))
+
+> You can explore all my repositories to dive deeper!
 
 ## 🌱 Currently Learning
 
