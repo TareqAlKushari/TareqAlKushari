@@ -10,7 +10,7 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 - 📫 How to Reach Me
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/Al_Kushari?label=Follow%20me)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tareq-al-kushari/)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-al-kushari/)
 [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562736475116)
 [!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
 [!["Email"](https://img.shields.io/badge/Email-tareq.al.kushari%40gmail.com-red?style=flat&logo=gmail)](mailto:tareq.al.kushari@gmail.com)
@@ -31,9 +31,9 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 
-### 🛠 Frameworks & Tools
+- 🛠 Frameworks & Tools
 
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+	![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
