@@ -64,31 +64,6 @@ I'm always learning something new! Right now, I'm focused on:
 I’m open to contributions, partnerships, and discussions on web or mobile projects, AI research, or anything inventive.
 Feel free to open an issue or submit a PR!
 
-
-## 🌱 Currently Learning
-
-I'm always learning something new! Right now, I'm focused on:
-- 🔧 Full-stack **Web Development**
-- 📲 Cross-platform **Mobile Development**
-- 🌐 **Computer Networking**
-
-## 🧪 Featured Projects
-
-- 🔹 **E-Commerce Platform** — Laravel + Vue + Bootstrap  
-- 🔹 **Flutter Delivery App** — Firebase-based real-time delivery app  
-- 🔹 **Course Platform** — Django + Stripe integration for online education  
-- 🔹 **AI & Cybersecurity Research** — Paper on using AI for security enhancement
-
-> Check out my repositories to explore more!
-
-## 📫 How to Reach Me
-
-- 📞 **Phone:** +967 773 350 540  
-- 📧 **Email:** [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)  
-- 🌐 **Facebook:** [Tareq AlKushari](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL)
-- 📸 **Instagram:** [tareq.al.kushari](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
-- 🐦 **X (Twitter):** [@Al_Kushari](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
-
 ## 📈 GitHub Stats & Activity
 
 ![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqAlKushari&show_icons=true&theme=radical&hide_title=true)
@@ -96,10 +71,6 @@ I'm always learning something new! Right now, I'm focused on:
 ![Tareq's Streak](https://github-readme-streak-stats.herokuapp.com?user=TareqAlKushari&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqAlKushari&layout=compact&theme=radical)
-
-## 🌀 GitHub Activity Graph
-
-[![Tareq's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TareqAlKushari&theme=react-dark)](https://github.com/TareqAlKushari)
 
 ---
 
