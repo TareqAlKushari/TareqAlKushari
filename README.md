@@ -12,7 +12,7 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/Al_Kushari?label=Follow%20me)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tareq-al-kushari/)
 [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562736475116)
-[!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
+[!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
 [!["Email"](https://img.shields.io/badge/Email-tareq.al.kushari%40gmail.com-orange?style=flat&logo=gmail)](mailto:tareq.al.kushari@gmail.com)
 
 
