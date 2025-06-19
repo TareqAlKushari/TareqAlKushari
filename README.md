@@ -54,6 +54,7 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 
 ## 📚 Learning Goals
 
+I'm always learning something new! Right now, I'm focused on:
 * 🌐 Deepening expertise in AI/ML and advanced mobile/web architectures
 * ☁️ Expanding knowledge in cloud computing setups (AWS, Azure)
 * 🔄 Improving cross-disciplinary capabilities: UI/UX, Networking, DevOps
