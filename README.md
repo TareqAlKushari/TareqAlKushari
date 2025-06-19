@@ -6,6 +6,19 @@ Welcome to my personal GitHub profile repository!
 
 I'm **Tareq Al-Kushari**, a passionate developer and technology enthusiast. I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. This repository serves as my GitHub profile README, highlighting my interests, skills, and projects.
 
+- 🔭 I’m currently working on improving my skills as a software engineer.
+- 🌱 I’m currently curious about full-stack web development, mobile development, AI, and networking
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me:
+
+- 📫 How to Reach Me
+
+[!["Email"](https://img.shields.io/badge/Email-tareq.al.kushari%40gmail.com-red?style=flat&logo=gmail)](mailto:tareq.al.kushari@gmail.com)
+[!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562736475116)
+[!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
+[!["X / Twitter"](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
+
+
 ## 🚀 Skills & Interests
 
 ### 🧠 Languages
