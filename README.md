@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 I'm a **Computer & Control Engineer** | Full‑Stack & Mobile Developer | AI & Networking Enthusiast.
-I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. 
 
+I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. 
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about full-stack web development, mobile development, AI, and networking.
