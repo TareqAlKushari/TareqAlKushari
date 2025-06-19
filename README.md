@@ -1,16 +1,14 @@
 # Hi there! 👋
 
-Welcome to my personal GitHub profile repository!
+**Computer & Control Engineer** | Full‑Stack & Mobile Developer | AI & Networking Enthusiast
 
-## 👨‍💻 About Me
+I'm a passionate developer and technology enthusiast. I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. 
 
-I'm **Tareq Al-Kushari**, a passionate developer and technology enthusiast. I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. This repository serves as my GitHub profile README, highlighting my interests, skills, and projects.
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
-- 🌱 I’m currently curious about full-stack web development, mobile development, AI, and networking
+- 🌱 I’m currently curious about full-stack web development, mobile development, AI, and networking.
+- 🔧 Passionate about designing, coding, debugging, and optimizing real-world applications.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me:
-
 - 📫 How to Reach Me
 
 	[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/Al_Kushari?label=Follow%20me)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
@@ -18,11 +16,6 @@ I'm **Tareq Al-Kushari**, a passionate developer and technology enthusiast. I lo
 [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562736475116)
 [!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==)
 [!["Email"](https://img.shields.io/badge/Email-tareq.al.kushari%40gmail.com-red?style=flat&logo=gmail)](mailto:tareq.al.kushari@gmail.com)
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/Al_Kushari?label=Follow%20me)](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09)
-
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tareq-al-kushari/)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/tarekalabd/)
-
 
 
 ## 🚀 Skills & Interests
