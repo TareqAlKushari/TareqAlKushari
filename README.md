@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-I'm a **Computer & Control Engineer** | Full‑Stack & Mobile Developer | AI & Networking Enthusiast.
-I love building web & mobile applications, diving into AI, and sharing knowledge with the tech community. I love exploring new technologies, solving problems, and collaborating with the open-source community. 
+**AI Engineer** with 2+ years of experience specialized in building production-ready LLM systems, AI agents, and scalable backend architectures. Proven experience delivering real-world AI solutions serving 10,000+ users, with a focus on automation, performance optimization, and system scalability. Strong background in integrating AI into business workflows to reduce manual operations and improve efficiency. I love exploring new technologies, solving problems, and collaborating with the open-source community.  
 
 - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about full-stack web development, mobile development, AI, and networking.
@@ -42,13 +41,10 @@ I love building web & mobile applications, diving into AI, and sharing knowledge
 
 ## ⭐ Featured Projects
 
-* **Portfolio-Website** – A sleek, responsive personal portfolio showcasing skills and contact info ([Website](https://tareqalkushari.github.io/Portfolio-Website/))
-* **Movies-Website** – A clean UI to browse movies using HTML, CSS, and JS ([Website](https://tareqalkushari.github.io/Movies-Website/))
-* **Laravel-Blog-Website** – A dynamic blog platform built using Laravel ([Website](https://tareqalkushari.github.io/Laravel-Blog-Website/))
-* **Java-Food-Delivery-Application** – Android-based food delivery app with Firebase backend ([Mobile App](https://tareqalkushari.github.io/Java-Food-Delivery-Application))
-* **Flutter-E-Commerce-App** – A wholesale e-commerce app built with Flutter and Dart ([Mobile App](https://tareqalkushari.github.io/Flutter-E-Commerce-App/))
-* **Leon-Template-One** – A modern web template using HTML5, CSS3, and JavaScript ([Website](https://tareqalkushari.github.io/Leon-Template-One-Using-HTML-CSS-and-JavaScript/))
-* **Smart-Surveillance-System** – AI-powered security and surveillance system using Python ([AI System](https://tareqalkushari.github.io/Smart-Surveillance-System/))
+* **Cybersecurity AI Agent (Axiom Matrix)** *(Aug 2025)* – Developed an advanced AI agent for automating cybersecurity workflows with LLM-based decision-making pipelines and a Django backend. ([🌐 Live Demo](https://cyber-agent.rad-ye.com))
+* **Face Recognition System** *(Jun 2025)* – Built a real-time face recognition system using MTCNN and FaceNet for attendance tracking and video processing applications. ([🔗 GitHub](https://github.com/AIApproach/Face-Recognition-System))
+* **AlaanAI Dashboard** *(Nov 2025)* – Developed a scalable analytics dashboard using Laravel and MySQL, providing real-time insights and data visualization. ([🌐 Live Demo](https://alaan-ai.com))
+* **Website for the Ghaith Youth Initiative** *(Nov 2025)* – Designed, developed, and deployed the official website using Laravel and MySQL to showcase the initiative's projects, mission, and achievements. ([🌐 Live Demo](https://ghaithyouth.org))
 
 > You can explore all my repositories to dive deeper!
 
